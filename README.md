@@ -4,7 +4,9 @@ Welcome to my GitHub profile!
 
 ## About Me
 
-Experienced Software Engineer and Solution Architect with nearly a decade of dedicated experience in the computer software industry, primarily focused on Microsoft technologies. Proven track record of leadership with 3+ years of successfully leading development teams comprising up to 60 talented developers. Good communication skills combined with a passion for maintaining and enhancing software quality.
+With nearly a decade of dedicated experience in the computer software industry, I've had the opportunity to wear many hats — ranging from software testing and development to C-level management, solution architecture, resource management, and staffing. This diverse journey has shaped me into a multifaceted professional, with software development remaining my core strength.
+
+As an Experienced Software Engineer and Solution Architect, my primary focus has been on Microsoft technologies. Over the years, I've led development teams of up to 60 talented developers.
 
 Proficient in the following areas:
 * Software and Solution Architecture: Experienced in designing robust software solutions that meet business objectives and scale effectively.
