@@ -17,5 +17,9 @@ Proficient in the following areas:
 Outside of work, I'm passionate about:
 * Startups: I have a keen interest in the startup ecosystem, innovation, and the entrepreneurial spirit.
 * Traveling and Nomad Life: I find inspiration in exploring different cultures and embracing a nomadic lifestyle.
+* Community Projects: I'm working on [dotnet.ge](https://dotnet.ge/), a .NET-focused community initiative, and [petInfo.ge](https://petinfo.ge/), a non-commercial webpage providing pet-related informations.
+
 
 Feel free to explore my repositories and connect with me.
+
+
