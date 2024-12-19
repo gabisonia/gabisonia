@@ -17,7 +17,7 @@ Proficient in the following areas:
 Outside of work, I'm passionate about:
 * Startups: I have a keen interest in the startup ecosystem, innovation, and the entrepreneurial spirit.
 * Traveling and Nomad Life: I find inspiration in exploring different cultures and embracing a nomadic lifestyle.
-* Community Projects: I'm working on [dotnet.ge](https://dotnet.ge/) - a .NET-focused community initiative.
+* Community Projects: I'm working on [dotnet.ge](https://dotnet.ge/) - a .NET-focused community initiative and [qa.cafe](https://qa.cafe/) - a dynamic platform for QA professionals to find jobs, level up their careers, and connect with like-minded testers.
 
 
 Feel free to explore my repositories and connect with me.
