@@ -6,7 +6,7 @@ Welcome to my GitHub profile!
 
 With nearly a decade of dedicated experience in the computer software industry, I've had the opportunity to wear many hats — ranging from software testing and development to C-level management, solution architecture, resource management, and staffing. This diverse journey has shaped me into a multifaceted professional, with software development remaining my core strength.
 
-As an Experienced Software Engineer and Solution Architect, my primary focus has been on Microsoft technologies. Over the years, I've led development teams of up to 60 talented developers.
+As an Experienced Software Engineer and Solution Architect, my primary focus has been on Microsoft technologies. Over the years, I've led development teams of up to 60 talented developers. More recently, I've developed a strong interest in Go (Golang), appreciating its simplicity, performance, and growing ecosystem, and have been actively expanding my expertise in it.
 
 Proficient in the following areas:
 * Software and Solution Architecture: Experienced in designing robust software solutions that meet business objectives and scale effectively.
