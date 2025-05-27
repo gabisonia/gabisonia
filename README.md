@@ -1,25 +1,9 @@
-# Hi there
+I’ve spent almost 10 years in software, working in areas like development, testing, architecture, and team leadership. Most of my work has been with Microsoft technologies, and I enjoy building practical, scalable systems.
 
-Welcome to my GitHub profile! 
+Lately, I’ve been exploring **Go (Golang)** and **ML.NET** out of curiosity and a desire to keep learning.
 
-## About Me
+I also work on a couple of community projects:
+- [dotnet.ge](https://dotnet.ge) – a .NET-focused community in Georgia  
+- [qa.cafe](https://qa.cafe) – a space for QA professionals to find jobs and grow their careers
 
-With nearly a decade of dedicated experience in the computer software industry, I've had the opportunity to wear many hats — ranging from software testing and development to C-level management, solution architecture, resource management, and staffing. This diverse journey has shaped me into a multifaceted professional, with software development remaining my core strength.
-
-As an Experienced Software Engineer and Solution Architect, my primary focus has been on Microsoft technologies. Over the years, I've led development teams of up to 60 talented developers. More recently, I've developed a strong interest in Go (Golang), appreciating its simplicity, performance, and growing ecosystem, and have been actively expanding my expertise in it.
-
-Proficient in the following areas:
-* Software and Solution Architecture: Experienced in designing robust software solutions that meet business objectives and scale effectively.
-* Development Workflow Enhancement: Skilled in optimizing development workflows for increased efficiency and productivity.
-* Team Leadership: Adept at building and guiding high-performing tech teams to deliver exceptional results.
-* Architectural Approaches: Proficient in implementing advanced architectural concepts such as Domain-Driven Design (DDD), Microservices, CQRS and ES to create flexible and scalable software systems.
-
-Outside of work, I'm passionate about:
-* Startups: I have a keen interest in the startup ecosystem, innovation, and the entrepreneurial spirit.
-* Traveling and Nomad Life: I find inspiration in exploring different cultures and embracing a nomadic lifestyle.
-* Community Projects: I'm working on [dotnet.ge](https://dotnet.ge/) - a .NET-focused community initiative and [qa.cafe](https://qa.cafe/) - a dynamic platform for QA professionals to find jobs, level up their careers, and connect with like-minded testers.
-
-
-Feel free to explore my repositories and connect with me.
-
-
+Outside of coding, I enjoy learning about startups, traveling, and meeting people from different cultures.
