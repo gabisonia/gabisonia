@@ -7,3 +7,8 @@ I also work on a couple of community projects:
 - [qa.cafe](https://qa.cafe) – a space for QA professionals to find jobs and grow their careers
 
 Outside of coding, I enjoy learning about startups, traveling, and meeting people from different cultures.
+
+My GitHub might look like a graveyard, but it’s full of half-finished ideas and hidden startup experiments.
+
+Feel free to check out my repos or connect.
+
