@@ -1,4 +1,4 @@
-I’ve spent almost 10 years in software, working in areas like development, testing, architecture, and team leadership. Most of my work has been with Microsoft technologies, and I enjoy building practical, scalable systems.
+I’ve spent more than 10 years in software, working in areas such as development, testing, architecture, and team leadership. Most of my work has been with Microsoft technologies, and I enjoy building practical, scalable systems.
 
 Lately, I’ve been exploring **Go (Golang)** and **ML.NET** out of curiosity and a desire to keep learning.
 
