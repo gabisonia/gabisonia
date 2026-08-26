@@ -4,6 +4,7 @@ Lately, I’ve been exploring **Go (Golang)** and **ML.NET** out of curiosity an
 
 I also work on a couple of community projects:
 - [dotnet.ge](https://dotnet.ge) – a .NET-focused community in Georgia
+- [qa.cafe](https://qa.cafe) – a platform for practical QA education, learning paths, and career growth
 
 Outside of coding, I enjoy learning about startups, traveling, and meeting people from different cultures.
 
