@@ -2,11 +2,16 @@ I’ve spent more than 10 years in software, working across development, testing
 
 Lately, I’ve been exploring **Go (Golang)** and **ML.NET** out of curiosity and a desire to keep learning.
 
-I’m also involved in open-source and community projects:
+I’m involved in a couple of community projects:
 
 * [dotnet.ge](https://dotnet.ge) – a .NET-focused community in Georgia
 * [qa.cafe](https://qa.cafe) – a platform for practical QA education, learning paths, and career growth
-* [Imposter](https://github.com/themidnightgospel/Imposter/) – maintainer of the open-source mocking library with the perfect balance of Performance and Intuitive API
+
+I also actively maintain several open-source projects:
+
+* [Imposter](https://github.com/themidnightgospel/Imposter/) – a mocking library focused on finding the right balance between performance and an intuitive API
+* [PdfiumRaster](https://github.com/gabisonia/PdfiumRaster) – an open-source project for working with PDF rendering
+* [PdfiumRaster.Orchestrator](https://github.com/gabisonia/PdfiumRaster.Orchestrator) – a companion project to PdfiumRaster
 
 Outside of coding, I enjoy learning about startups, traveling, and meeting people from different cultures.
 
