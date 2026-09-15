@@ -13,6 +13,11 @@ I also actively maintain several open-source projects:
 * [PdfiumRaster](https://github.com/gabisonia/PdfiumRaster) – an open-source project for working with PDF rendering
 * [PdfiumRaster.Orchestrator](https://github.com/gabisonia/PdfiumRaster.Orchestrator) – a companion project to PdfiumRaster
 
+A couple of small but personally meaningful contributions to Microsoft open-source projects:
+
+* [Aspire – PR #19958](https://github.com/microsoft/aspire/pull/19958)
+* [Agent Framework for Go – PR #1068](https://github.com/microsoft/agent-framework-go/pull/1068)
+
 Outside of coding, I enjoy learning about startups, traveling, and meeting people from different cultures.
 
 My GitHub might look like a graveyard, but it’s full of half-finished ideas and hidden startup experiments.
