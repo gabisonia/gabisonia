@@ -17,6 +17,7 @@ A couple of small but personally meaningful contributions to Microsoft open-sour
 
 * [Aspire – PR #19958](https://github.com/microsoft/aspire/pull/19958)
 * [Agent Framework for Go – PR #1068](https://github.com/microsoft/agent-framework-go/pull/1068)
+* [Agent Framework for Go – PR #1073](https://github.com/microsoft/agent-framework-go/pull/1073) 
 
 Outside of coding, I enjoy learning about startups, traveling, and meeting people from different cultures.
 
