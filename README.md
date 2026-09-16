@@ -20,6 +20,7 @@ Contributions to Microsoft open-source projects:
 * **[Agent Framework for Go – PR #1068](https://github.com/microsoft/agent-framework-go/pull/1068)** — Fixed MCP tool discovery pagination so agents can discover and invoke tools across all pages returned by MCP servers.
 * **[Agent Framework for Go – PR #1073](https://github.com/microsoft/agent-framework-go/pull/1073)** — Preserved native MCP content in tool results, including images, audio, resource links, and embedded resources instead of serializing them as text.
 * **[Agent Framework for Go – PR #1077](https://github.com/microsoft/agent-framework-go/pull/1077)** — Fixed tool-call cancellation so cancelled requests stop subsequent provider and tool invocations instead of continuing execution.
+* **[Agent Framework for Go – PR #1088](https://github.com/microsoft/agent-framework-go/pull/1088)** — Fixed tool-result compaction to preserve raw JSON as readable JSON text instead of rendering `json.RawMessage` values as numeric byte arrays.
 
 Outside of coding, I enjoy learning about startups, traveling, and meeting people from different cultures.
 
