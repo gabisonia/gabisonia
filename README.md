@@ -1,7 +1,5 @@
 I’ve spent more than 10 years in software, working across development, testing, architecture, and team leadership. Most of my work has been with Microsoft technologies, and I enjoy building practical, scalable systems.
 
-Lately, I’ve been exploring **Go (Golang)** and **ML.NET** out of curiosity and a desire to keep learning.
-
 I’m involved in a couple of community projects:
 
 * [dotnet.ge](https://dotnet.ge) – a .NET-focused community in Georgia
