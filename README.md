@@ -7,11 +7,14 @@ I’m involved in a couple of community projects:
 * [dotnet.ge](https://dotnet.ge) – a .NET-focused community in Georgia
 * [qa.cafe](https://qa.cafe) – a platform for practical QA education, learning paths, and career growth
 
-I also actively maintain several open-source projects:
+I actively maintain several open-source projects:
 
-* [Imposter](https://github.com/themidnightgospel/Imposter/) – a mocking library focused on finding the right balance between performance and an intuitive API
 * [PdfiumRaster](https://github.com/gabisonia/PdfiumRaster) – an open-source project for working with PDF rendering
 * [PdfiumRaster.Orchestrator](https://github.com/gabisonia/PdfiumRaster.Orchestrator) – a companion project to PdfiumRaster
+
+I also contribute to other open-source projects:
+
+* [Imposter](https://github.com/themidnightgospel/Imposter/) – a mocking library focused on finding the right balance between performance and an intuitive API
 
 Contributions to Microsoft open-source projects:
 
