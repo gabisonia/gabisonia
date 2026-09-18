@@ -14,6 +14,9 @@ I also contribute to other open-source projects:
 
 * [Imposter](https://github.com/themidnightgospel/Imposter/) – a mocking library focused on finding the right balance between performance and an intuitive API
 
+
+* [Brighter](https://github.com/BrighterCommand/Brighter/pull/4373) – contributions to the .NET command processor and messaging framework
+
 Contributions to Microsoft open-source projects:
 
 * **[Aspire](https://github.com/microsoft/aspire/pull/19958)** — Fixed inherited launch profile handling for bundled AppHosts.
