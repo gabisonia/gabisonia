@@ -5,6 +5,14 @@ I'm involved in a couple of community projects:
 * [dotnet.ge](https://dotnet.ge) – a .NET-focused community in Georgia
 * [qa.cafe](https://qa.cafe) – a platform for practical QA education, learning paths, and career growth
 
+### Speaking
+
+I'm also a speaker at **.NET Georgia**, where I give talks on .NET, software engineering, and related technologies.
+
+* [Watch my talks on the .NET Georgia YouTube channel](https://www.youtube.com/@dotnetGeorgia)
+
+### Open source
+
 I actively maintain several open-source projects:
 
 * [PdfiumRaster](https://github.com/gabisonia/PdfiumRaster) – an open-source project for working with PDF rendering
