@@ -3,7 +3,6 @@ I've spent more than 10 years in software, working across development, testing, 
 I'm involved in a couple of community projects:
 
 * [dotnet.ge](https://dotnet.ge) – a .NET-focused community in Georgia
-* [qa.cafe](https://qa.cafe) – a platform for practical QA education, learning paths, and career growth
 
 ### Speaking
 
