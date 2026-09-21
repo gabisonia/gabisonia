@@ -20,7 +20,7 @@ I actively maintain several open-source projects:
 I also contribute to other open-source projects:
 
 * [Imposter](https://github.com/themidnightgospel/Imposter/) – a mocking library focused on finding the right balance between performance and an intuitive API
-* [Brighter](https://github.com/BrighterCommand/Brighter/pull/4373) – contributions to the .NET command processor and messaging framework
+* [Brighter](https://github.com/BrighterCommand/Brighter/) – contributions to the .NET command processor and messaging framework
 
 ### Contributions to Microsoft open-source projects
 
