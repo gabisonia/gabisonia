@@ -24,8 +24,6 @@ I also contribute to other open-source projects:
 
 ### Contributions to Microsoft open-source projects
 
-I contribute to Microsoft open-source projects, including **Aspire** and **Microsoft Agent Framework for Go**, working across areas such as distributed application development, MCP interoperability, tool invocation, middleware, structured content, cancellation, and agent runtime behavior.
-
 * [View my merged contributions to Microsoft Aspire](https://github.com/microsoft/aspire/pulls?q=is%3Apr+state%3Amerged+author%3Agabisonia)
 * [View my merged contributions to Microsoft Agent Framework for Go](https://github.com/microsoft/agent-framework-go/pulls?q=is%3Apr+state%3Amerged+author%3Agabisonia)
 
