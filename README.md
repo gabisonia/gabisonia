@@ -24,16 +24,10 @@ I also contribute to other open-source projects:
 
 ### Contributions to Microsoft open-source projects
 
-* **[Aspire – PR #19958](https://github.com/microsoft/aspire/pull/19958)** – Fixed inherited launch profile handling for bundled AppHosts.
-* **[Agent Framework for Go – PR #1068](https://github.com/microsoft/agent-framework-go/pull/1068)** – Fixed MCP tool discovery pagination so agents can discover and invoke tools across all pages returned by MCP servers.
-* **[Agent Framework for Go – PR #1073](https://github.com/microsoft/agent-framework-go/pull/1073)** – Preserved native MCP content in tool results, including images, audio, resource links, and embedded resources instead of serializing them as text.
-* **[Agent Framework for Go – PR #1077](https://github.com/microsoft/agent-framework-go/pull/1077)** – Fixed tool-call cancellation so cancelled requests stop subsequent provider and tool invocations instead of continuing execution.
-* **[Agent Framework for Go – PR #1088](https://github.com/microsoft/agent-framework-go/pull/1088)** – Fixed tool-result compaction to preserve raw JSON as readable JSON text instead of rendering `json.RawMessage` values as numeric byte arrays.
-* **[Agent Framework for Go – PR #1093](https://github.com/microsoft/agent-framework-go/pull/1093)** – Added function-invocation middleware with call identity, allowing applications to intercept individual tool calls and inspect or modify their call ID, arguments, results, and errors. The middleware also supports short-circuiting tool execution and exposes invocation identity inside tool handlers through context.
-* **[Agent Framework for Go – PR #1112](https://github.com/microsoft/agent-framework-go/pull/1112)** – Preserved MCP content metadata during bidirectional MCP ↔ framework conversion, including metadata for text, images, audio, resource links, embedded resources, and JSON content.
-* **[Agent Framework for Go – PR #1113](https://github.com/microsoft/agent-framework-go/pull/1113)** – Preserved MCP array output schemas and structured results by adding structured content for array and nullable-array tool results while keeping existing text output unchanged.
-* **[Agent Framework for Go – PR #1180](https://github.com/microsoft/agent-framework-go/pull/1180)** – Fixed persistent shell cancellation so commands with already-canceled or expired contexts are rejected before execution, preventing unintended side effects while preserving the existing shell session.
+I contribute to Microsoft open-source projects, including **Aspire** and **Microsoft Agent Framework for Go**, working across areas such as distributed application development, MCP interoperability, tool invocation, middleware, structured content, cancellation, and agent runtime behavior.
 
+* [View my merged contributions to Microsoft Aspire](https://github.com/microsoft/aspire/pulls?q=is%3Apr+state%3Amerged+author%3Agabisonia)
+* [View my merged contributions to Microsoft Agent Framework for Go](https://github.com/microsoft/agent-framework-go/pulls?q=is%3Apr+state%3Amerged+author%3Agabisonia)
 
 Outside of coding, I enjoy learning about startups, traveling, and meeting people from different cultures.
 
