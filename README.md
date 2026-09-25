@@ -32,6 +32,7 @@ I also contribute to other open-source projects:
 * **[Agent Framework for Go – PR #1093](https://github.com/microsoft/agent-framework-go/pull/1093)** – Added function-invocation middleware with call identity, allowing applications to intercept individual tool calls and inspect or modify their call ID, arguments, results, and errors. The middleware also supports short-circuiting tool execution and exposes invocation identity inside tool handlers through context.
 * **[Agent Framework for Go – PR #1112](https://github.com/microsoft/agent-framework-go/pull/1112)** – Preserved MCP content metadata during bidirectional MCP ↔ framework conversion, including metadata for text, images, audio, resource links, embedded resources, and JSON content.
 * **[Agent Framework for Go – PR #1113](https://github.com/microsoft/agent-framework-go/pull/1113)** – Preserved MCP array output schemas and structured results by adding structured content for array and nullable-array tool results while keeping existing text output unchanged.
+* **[Agent Framework for Go – PR #1180](https://github.com/microsoft/agent-framework-go/pull/1180)** – Fixed persistent shell cancellation so commands with already-canceled or expired contexts are rejected before execution, preventing unintended side effects while preserving the existing shell session.
 
 
 Outside of coding, I enjoy learning about startups, traveling, and meeting people from different cultures.
