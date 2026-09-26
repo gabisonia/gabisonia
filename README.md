@@ -27,9 +27,9 @@ I also contribute to other open-source projects:
 ### Contributions to Microsoft open-source projects
 
 * [Microsoft Aspire](https://github.com/microsoft/aspire)
-  * [View my merged contributions to Microsoft Aspire](https://github.com/microsoft/aspire/pulls?q=is%3Apr+state%3Amerged+author%3Agabisonia)
+  * [View my contributions to Microsoft Aspire](https://github.com/microsoft/aspire/pulls?q=is%3Apr+author%3Agabisonia)
 * [Microsoft Agent Framework for Go](https://github.com/microsoft/agent-framework-go)
-  * [View my merged contributions to Microsoft Agent Framework for Go](https://github.com/microsoft/agent-framework-go/pulls?q=is%3Apr+state%3Amerged+author%3Agabisonia)
+  * [View my contributions to Microsoft Agent Framework for Go](https://github.com/microsoft/agent-framework-go/pulls?q=is%3Apr+author%3Agabisonia)
 
 Outside of coding, I enjoy learning about startups, traveling, and meeting people from different cultures.
 
