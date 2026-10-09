@@ -1,4 +1,4 @@
-I've spent more than 10 years in software, working across development, testing, architecture, and team leadership. Most of my work has been with Microsoft technologies, and I enjoy building practical, scalable systems.
+I've spent more than 10 years in software, working across development, testing, architecture, and team leadership. Most of my work has been with Microsoft technologies, and I enjoy building practical, scalable systems. I'm also a member of the [.NET Foundation](https://dotnetfoundation.org/).
 
 I'm involved in a community project:
 
