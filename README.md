@@ -9,6 +9,7 @@ I maintain several open-source projects:
 
 - [PdfiumRaster](https://github.com/gabisonia/PdfiumRaster) – a library for PDF rendering
 - [PdfiumRaster.Orchestrator](https://github.com/gabisonia/PdfiumRaster.Orchestrator) – a companion project to PdfiumRaster
+- [go-vectorstore](https://github.com/gabisonia/go-vectorstore) – a lightweight Go vector-store library inspired by Microsoft.Extensions.VectorData
 
 I also contribute to other open-source projects, including:
 
