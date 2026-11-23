@@ -13,11 +13,11 @@ I maintain several open-source projects:
 
 I also contribute to other open-source projects, including:
 
-- [Microsoft Agent Framework for Go](https://github.com/microsoft/agent-framework-go) – [My contributions]((https://github.com/microsoft/agent-framework-go/pulls?q=is%3Apr+author%3Agabisonia))
+- [Microsoft Agent Framework for Go](https://github.com/microsoft/agent-framework-go) – ([My contributions](https://github.com/microsoft/agent-framework-go/pulls?q=is%3Apr+author%3Agabisonia))
 - [Brighter](https://github.com/BrighterCommand/Brighter/) – a .NET command processor and messaging framework ([My contributions](https://github.com/BrighterCommand/Brighter/pulls?q=is%3Apr+author%3Agabisonia))
 - [Darker](https://github.com/BrighterCommand/Darker/) – The query-side counterpart of Brighter ([My contributions](https://github.com/BrighterCommand/Darker/pulls?q=is%3Apr+author%3Agabisonia))
 - [Imposter](https://github.com/themidnightgospel/Imposter/) – a high-performance mocking library ([My contributions](https://github.com/themidnightgospel/Imposter/pulls?q=is%3Apr+author%3Agabisonia))
-- [Microsoft Aspire](https://github.com/microsoft/aspire) – [My contributions](https://github.com/microsoft/aspire/pulls?q=is%3Apr+author%3Agabisonia)
+- [Microsoft Aspire](https://github.com/microsoft/aspire) – ([My contributions](https://github.com/microsoft/aspire/pulls?q=is%3Apr+author%3Agabisonia))
 
 ### Community & speaking
 
